@@ -66,3 +66,7 @@ THE PLAYER MUST APPEAR IN A RANDOM POSITION IN THE FIRST LANE AND FREE TO MOVE E
 #### THE ANIMATION:
 - GENERATION OF SOUND WITH EVERY USER INTERACTION
 - COINS ROTATE
+
+## How to run:
+- Download project on computer.
+- Import it into visual studio and run it.
