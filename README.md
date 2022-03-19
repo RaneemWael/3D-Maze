@@ -67,6 +67,10 @@ THE PLAYER MUST APPEAR IN A RANDOM POSITION IN THE FIRST LANE AND FREE TO MOVE E
 - GENERATION OF SOUND WITH EVERY USER INTERACTION
 - COINS ROTATE
 
+## Gameplay Demo:
+
+You can find a .mp4 demo in the files uploaded detailing more information about the implementation as well as featuring a demonstration of the gaemplay.
+
 ## How to run:
 - Download project on computer.
 - Import it into visual studio and run it.
